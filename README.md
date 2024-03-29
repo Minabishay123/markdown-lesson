@@ -15,3 +15,21 @@ Eg **code .** and you will notice that code . is now in bold.
 Alternativly you can do a double underscore i.e. _code ._ But sometimes depending on the environment you are in, it can just make it italics, 
 
 Best practice for signifying code is to use backtips ``  `code .`  
+
+If we want to signify a larger code snippet you will open and close the snippet with three backtips. 
+
+for example:
+
+```py
+def hello():
+ print("Hello,world!")
+```
+
+```html
+<h1>Hello.world!</h1>
+```
+
+some other things we do is to create lists:
+
+
+

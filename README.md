@@ -31,5 +31,33 @@ def hello():
 
 some other things we do is to create lists:
 
+If you want to do a numbered list you will do the number and the full stop together without spaces then space and the content in the listing. For example:
+
+1. One
+2. Two
+3. Three
+
+If you dont do this, it will not be in listing format. 
+
+If you want to do a bulleted list you will will use hyphens 
+- One
+- Two 
+- Three
+
+Another thing you might want to do is to link to an external resource, such as a webpage. To do this you will need to start with square open and close brackets immediatly followed by open and close circle brackets. For Example:
+
+go to [Google](https://www.google.com/)
+
+The square bracket is the title of the source and the circle bracket is the source address
+
+You can do the same for an image - its the same process. 
+
+[Cute pic of a dog](https://placedog.net/500)
+
+note that if you want VSCode to display the image then add ! at the start of the syntax 
+
+![Cute pic of a dog](https://placedog.net/500)
+
+
 
 
